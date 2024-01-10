@@ -15,3 +15,5 @@ Otherwise, get PortAudio here: https://files.portaudio.com/docs/v19-doxydocs/tut
 - Duration of audio capture can be changed, can be modified to have a perpetual stream when program is running
 - Let program complete to reset rgbs back to the way they were
 - Todo: Changes for better cleanup and more organized code
+
+Learn more about the Wooting SDK here: https://github.com/WootingKb/awesome-wooting
